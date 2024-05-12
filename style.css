@@ -132,6 +132,7 @@ header {
     color: var(--dark-grayish-magenta-color);
     font-size: 18.4px;
     line-height: 1.35;
+    font-weight: var(--font-weight-medium);
 }
     /* RESPONSIVE */
     @media only screen and (max-width: 1000px) {
